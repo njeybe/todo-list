@@ -3,6 +3,20 @@ body {
   max-width: 400px;
   margin: auto;
   text-align: center;
+  background-color: #f3f1d1;
+}
+
+.container{
+    background-color: #d8d793;
+    height: 400px;
+    align-items: center;
+    margin: 200px auto;
+    border-radius: 10px;
+}
+
+.container h1{
+    padding: 20px;
+    margin: 50px;
 }
 
 #task-list {
